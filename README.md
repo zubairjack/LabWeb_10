@@ -5,4 +5,5 @@ Tugas Pertemuan 12
 ## Membuat Aplikasi Berbasih PHP
 
 Ini Hasil Scrensoot
-![img]
+![Gambar 1](screnshoot/ss1.png)
+![Gambar 2](screnshoot/ss2.png)
